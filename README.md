@@ -2,8 +2,7 @@
 
 Preguntas Frecuentes
 1. ¿Por qué se utiliza SCOPE_IDENTITY() en el método Crear de JugadorService?
-2. 
-SCOPE_IDENTITY() se usa para obtener el ID del último registro insertado en la misma sesión y ámbito. Esto es útil porque asegura que obtengas el ID correcto, incluso si hay múltiples inserciones concurrentes en la base de datos. Básicamente, te ahorra problemas si alguien más está insertando datos al mismo tiempo.
+   SCOPE_IDENTITY() se usa para obtener el ID del último registro insertado en la misma sesión y ámbito. Esto es útil porque asegura que obtengas el ID correcto, incluso si hay múltiples inserciones concurrentes en la base de datos. Básicamente, te ahorra problemas si alguien más está insertando datos al mismo tiempo.
 
 3. ¿Por qué se verifica la existencia de elementos en el inventario antes de eliminar un jugador?
 Esto se hace para evitar inconsistencias en los datos. Si eliminas un jugador que todavía tiene ítems en el inventario, esos ítems quedarían "huérfanos" en la base de datos, lo que podría causar errores o datos basura. Es como asegurarte de que alguien no deje su mochila tirada antes de irse.
