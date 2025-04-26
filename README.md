@@ -1,4 +1,4 @@
-##**Preguntas**
+## **Preguntas**
 
 
 1. **¿Por qué se utiliza SCOPE_IDENTITY() en el método Crear de JugadorService?**
