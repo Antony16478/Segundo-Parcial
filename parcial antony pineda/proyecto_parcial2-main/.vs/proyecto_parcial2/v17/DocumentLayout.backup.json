@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Efrai\\Desktop\\ayuda de colocho\\proyecto_parcial2-mainlji\u00F1oki\\proyecto_parcial2-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1ED2298-0C08-42B0-945E-ABAC6B6534A8}|..\\WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\efrai\\desktop\\ayuda de colocho\\proyecto_parcial2-mainlji\u00F1oki\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1ED2298-0C08-42B0-945E-ABAC6B6534A8}|..\\WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\efrai\\desktop\\ayuda de colocho\\proyecto_parcial2-mainlji\u00F1oki\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED5FDDA3-231A-B04D-D780-CF08F6DE5B22}|proyecto_parcial2.csproj|c:\\users\\efrai\\desktop\\ayuda de colocho\\proyecto_parcial2-mainlji\u00F1oki\\proyecto_parcial2-main\\scripts.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{ED5FDDA3-231A-B04D-D780-CF08F6DE5B22}|proyecto_parcial2.csproj|solutionrelative:scripts.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED5FDDA3-231A-B04D-D780-CF08F6DE5B22}|proyecto_parcial2.csproj|c:\\users\\efrai\\desktop\\ayuda de colocho\\proyecto_parcial2-mainlji\u00F1oki\\proyecto_parcial2-main\\utils\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED5FDDA3-231A-B04D-D780-CF08F6DE5B22}|proyecto_parcial2.csproj|solutionrelative:utils\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1ED2298-0C08-42B0-945E-ABAC6B6534A8}|..\\WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\efrai\\desktop\\ayuda de colocho\\proyecto_parcial2-mainlji\u00F1oki\\winformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED5FDDA3-231A-B04D-D780-CF08F6DE5B22}|proyecto_parcial2.csproj|c:\\users\\efrai\\desktop\\ayuda de colocho\\proyecto_parcial2-mainlji\u00F1oki\\proyecto_parcial2-main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED5FDDA3-231A-B04D-D780-CF08F6DE5B22}|proyecto_parcial2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED5FDDA3-231A-B04D-D780-CF08F6DE5B22}|proyecto_parcial2.csproj|c:\\users\\efrai\\desktop\\ayuda de colocho\\proyecto_parcial2-mainlji\u00F1oki\\proyecto_parcial2-main\\scripts.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{ED5FDDA3-231A-B04D-D780-CF08F6DE5B22}|proyecto_parcial2.csproj|solutionrelative:scripts.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 358,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "scripts.sql ",
+              "DocumentMoniker": "C:\\Users\\Efrai\\Desktop\\ayuda de colocho\\proyecto_parcial2-mainlji\u00F1oki\\proyecto_parcial2-main\\scripts.sql",
+              "RelativeDocumentMoniker": "scripts.sql",
+              "ToolTip": "C:\\Users\\Efrai\\Desktop\\ayuda de colocho\\proyecto_parcial2-mainlji\u00F1oki\\proyecto_parcial2-main\\scripts.sql",
+              "RelativeToolTip": "scripts.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-26T04:05:48.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Efrai\\Desktop\\ayuda de colocho\\proyecto_parcial2-mainlji\u00F1oki\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\WinFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Efrai\\Desktop\\ayuda de colocho\\proyecto_parcial2-mainlji\u00F1oki\\WinFormsApp1\\Form1.cs",
+              "RelativeToolTip": "..\\WinFormsApp1\\Form1.cs",
+              "ViewState": "AgIAALIBAAAAAAAAAAASwL4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T04:01:00.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Efrai\\Desktop\\ayuda de colocho\\proyecto_parcial2-mainlji\u00F1oki\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\WinFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Efrai\\Desktop\\ayuda de colocho\\proyecto_parcial2-mainlji\u00F1oki\\WinFormsApp1\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\WinFormsApp1\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T03:59:39.49Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DatabaseManager.cs",
+              "DocumentMoniker": "C:\\Users\\Efrai\\Desktop\\ayuda de colocho\\proyecto_parcial2-mainlji\u00F1oki\\proyecto_parcial2-main\\Utils\\DatabaseManager.cs",
+              "RelativeDocumentMoniker": "Utils\\DatabaseManager.cs",
+              "ToolTip": "C:\\Users\\Efrai\\Desktop\\ayuda de colocho\\proyecto_parcial2-mainlji\u00F1oki\\proyecto_parcial2-main\\Utils\\DatabaseManager.cs",
+              "RelativeToolTip": "Utils\\DatabaseManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T04:01:43.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Efrai\\Desktop\\ayuda de colocho\\proyecto_parcial2-mainlji\u00F1oki\\WinFormsApp1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "..\\WinFormsApp1\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Efrai\\Desktop\\ayuda de colocho\\proyecto_parcial2-mainlji\u00F1oki\\WinFormsApp1\\Form1.Designer.cs",
+              "RelativeToolTip": "..\\WinFormsApp1\\Form1.Designer.cs",
+              "ViewState": "AgIAAAgCAAAAAAAAAAAAACQCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T04:00:19.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Efrai\\Desktop\\ayuda de colocho\\proyecto_parcial2-mainlji\u00F1oki\\proyecto_parcial2-main\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Efrai\\Desktop\\ayuda de colocho\\proyecto_parcial2-mainlji\u00F1oki\\proyecto_parcial2-main\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T03:58:32.505Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 113,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

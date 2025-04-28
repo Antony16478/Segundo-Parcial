@@ -1,0 +1,47 @@
+Debes desarrollar un programa en C# de consola, debe de ser orientado a objetos, 
+lo principal es hacer cruds de 3 tablas con una base de datos sqlserver, 
+así que haz un menú para cada una de las tablas.
+Este sistema de consola, está basado en el juego minecraft.
+
+La base de datos se llama: dbparcial2
+Estas son las tablas y sus relaciones:
+-- Tabla 1: Jugadores (Players)
+CREATE TABLE Jugadores (
+    Id INT PRIMARY KEY IDENTITY(1,1),
+    Nombre NVARCHAR(100) NOT NULL,
+    Nivel INT DEFAULT 1,
+    FechaCreacion DATETIME DEFAULT GETDATE()
+);
+
+-- Tabla 2: Bloques (Blocks)
+CREATE TABLE Bloques (
+    Id INT PRIMARY KEY IDENTITY(1,1),
+    Nombre NVARCHAR(50) NOT NULL,
+    Tipo NVARCHAR(50) NOT NULL, -- Ej: "Mineral", "Madera", "Decoración"
+    Rareza NVARCHAR(20) NOT NULL -- Ej: "Común", "Raro", "Épico"
+);
+
+-- Tabla 3: Inventario (Inventory)
+CREATE TABLE Inventario (
+    Id INT PRIMARY KEY IDENTITY(1,1),
+    JugadorId INT NOT NULL,
+    BloqueId INT NOT NULL,
+    Cantidad INT DEFAULT 1,
+    FOREIGN KEY (JugadorId) REFERENCES Jugadores(Id),
+    FOREIGN KEY (BloqueId) REFERENCES Bloques(Id)
+);
+
+Requisitos mínimos:
+    Conexión a la base de datos (usando SqlConnection, SqlCommand, etc.).
+	el servidor de sql server es: LT-RULDIN-LENOV\SQLEXPRESS2019
+	la autenticación es por medio de windows
+	
+	
+    Menú de consola con opciones para las funcionalidades CRUD, por ejemplo:
+        Registrar un jugador.
+        Agregar bloques al inventario.
+        Listar jugadores y sus recursos.
+        Buscar bloques por tipo o rareza.
+		otras opciones que tenga el programa.
+
+    Validaciones básicas (ej.: no permitir cantidades negativas en el inventario, otras que por sentido común creas convenientes).

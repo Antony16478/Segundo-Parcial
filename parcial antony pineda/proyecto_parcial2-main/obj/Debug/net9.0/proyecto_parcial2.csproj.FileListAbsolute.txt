@@ -1,0 +1,128 @@
+C:\U\2025\examenes\Parcial 2\p1\proyecto\proyecto_parcial2\bin\Debug\net9.0\proyecto_parcial2.exe
+C:\U\2025\examenes\Parcial 2\p1\proyecto\proyecto_parcial2\bin\Debug\net9.0\proyecto_parcial2.deps.json
+C:\U\2025\examenes\Parcial 2\p1\proyecto\proyecto_parcial2\bin\Debug\net9.0\proyecto_parcial2.runtimeconfig.json
+C:\U\2025\examenes\Parcial 2\p1\proyecto\proyecto_parcial2\bin\Debug\net9.0\proyecto_parcial2.dll
+C:\U\2025\examenes\Parcial 2\p1\proyecto\proyecto_parcial2\bin\Debug\net9.0\proyecto_parcial2.pdb
+C:\U\2025\examenes\Parcial 2\p1\proyecto\proyecto_parcial2\bin\Debug\net9.0\Azure.Core.dll
+C:\U\2025\examenes\Parcial 2\p1\proyecto\proyecto_parcial2\bin\Debug\net9.0\Azure.Identity.dll
+C:\U\2025\examenes\Parcial 2\p1\proyecto\proyecto_parcial2\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\U\2025\examenes\Parcial 2\p1\proyecto\proyecto_parcial2\bin\Debug\net9.0\Microsoft.Bcl.Cryptography.dll
+C:\U\2025\examenes\Parcial 2\p1\proyecto\proyecto_parcial2\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\U\2025\examenes\Parcial 2\p1\proyecto\proyecto_parcial2\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\U\2025\examenes\Parcial 2\p1\proyecto\proyecto_parcial2\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\U\2025\examenes\Parcial 2\p1\proyecto\proyecto_parcial2\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\U\2025\examenes\Parcial 2\p1\proyecto\proyecto_parcial2\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\U\2025\examenes\Parcial 2\p1\proyecto\proyecto_parcial2\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\U\2025\examenes\Parcial 2\p1\proyecto\proyecto_parcial2\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\U\2025\examenes\Parcial 2\p1\proyecto\proyecto_parcial2\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\U\2025\examenes\Parcial 2\p1\proyecto\proyecto_parcial2\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\U\2025\examenes\Parcial 2\p1\proyecto\proyecto_parcial2\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\U\2025\examenes\Parcial 2\p1\proyecto\proyecto_parcial2\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\U\2025\examenes\Parcial 2\p1\proyecto\proyecto_parcial2\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\U\2025\examenes\Parcial 2\p1\proyecto\proyecto_parcial2\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\U\2025\examenes\Parcial 2\p1\proyecto\proyecto_parcial2\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\U\2025\examenes\Parcial 2\p1\proyecto\proyecto_parcial2\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\U\2025\examenes\Parcial 2\p1\proyecto\proyecto_parcial2\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\U\2025\examenes\Parcial 2\p1\proyecto\proyecto_parcial2\bin\Debug\net9.0\System.ClientModel.dll
+C:\U\2025\examenes\Parcial 2\p1\proyecto\proyecto_parcial2\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\U\2025\examenes\Parcial 2\p1\proyecto\proyecto_parcial2\bin\Debug\net9.0\System.Diagnostics.EventLog.dll
+C:\U\2025\examenes\Parcial 2\p1\proyecto\proyecto_parcial2\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\U\2025\examenes\Parcial 2\p1\proyecto\proyecto_parcial2\bin\Debug\net9.0\System.Memory.Data.dll
+C:\U\2025\examenes\Parcial 2\p1\proyecto\proyecto_parcial2\bin\Debug\net9.0\System.Security.Cryptography.Pkcs.dll
+C:\U\2025\examenes\Parcial 2\p1\proyecto\proyecto_parcial2\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\U\2025\examenes\Parcial 2\p1\proyecto\proyecto_parcial2\bin\Debug\net9.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\U\2025\examenes\Parcial 2\p1\proyecto\proyecto_parcial2\bin\Debug\net9.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\U\2025\examenes\Parcial 2\p1\proyecto\proyecto_parcial2\bin\Debug\net9.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\U\2025\examenes\Parcial 2\p1\proyecto\proyecto_parcial2\bin\Debug\net9.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\U\2025\examenes\Parcial 2\p1\proyecto\proyecto_parcial2\bin\Debug\net9.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\U\2025\examenes\Parcial 2\p1\proyecto\proyecto_parcial2\bin\Debug\net9.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\U\2025\examenes\Parcial 2\p1\proyecto\proyecto_parcial2\bin\Debug\net9.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\U\2025\examenes\Parcial 2\p1\proyecto\proyecto_parcial2\bin\Debug\net9.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\U\2025\examenes\Parcial 2\p1\proyecto\proyecto_parcial2\bin\Debug\net9.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\U\2025\examenes\Parcial 2\p1\proyecto\proyecto_parcial2\bin\Debug\net9.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\U\2025\examenes\Parcial 2\p1\proyecto\proyecto_parcial2\bin\Debug\net9.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\U\2025\examenes\Parcial 2\p1\proyecto\proyecto_parcial2\bin\Debug\net9.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\U\2025\examenes\Parcial 2\p1\proyecto\proyecto_parcial2\bin\Debug\net9.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\U\2025\examenes\Parcial 2\p1\proyecto\proyecto_parcial2\bin\Debug\net9.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\U\2025\examenes\Parcial 2\p1\proyecto\proyecto_parcial2\bin\Debug\net9.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\U\2025\examenes\Parcial 2\p1\proyecto\proyecto_parcial2\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\U\2025\examenes\Parcial 2\p1\proyecto\proyecto_parcial2\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\U\2025\examenes\Parcial 2\p1\proyecto\proyecto_parcial2\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\U\2025\examenes\Parcial 2\p1\proyecto\proyecto_parcial2\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.Messages.dll
+C:\U\2025\examenes\Parcial 2\p1\proyecto\proyecto_parcial2\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+C:\U\2025\examenes\Parcial 2\p1\proyecto\proyecto_parcial2\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
+C:\U\2025\examenes\Parcial 2\p1\proyecto\proyecto_parcial2\obj\Debug\net9.0\proyecto_parcial2.csproj.AssemblyReference.cache
+C:\U\2025\examenes\Parcial 2\p1\proyecto\proyecto_parcial2\obj\Debug\net9.0\proyecto_parcial2.GeneratedMSBuildEditorConfig.editorconfig
+C:\U\2025\examenes\Parcial 2\p1\proyecto\proyecto_parcial2\obj\Debug\net9.0\proyecto_parcial2.AssemblyInfoInputs.cache
+C:\U\2025\examenes\Parcial 2\p1\proyecto\proyecto_parcial2\obj\Debug\net9.0\proyecto_parcial2.AssemblyInfo.cs
+C:\U\2025\examenes\Parcial 2\p1\proyecto\proyecto_parcial2\obj\Debug\net9.0\proyecto_parcial2.csproj.CoreCompileInputs.cache
+C:\U\2025\examenes\Parcial 2\p1\proyecto\proyecto_parcial2\obj\Debug\net9.0\proyecto.283F262C.Up2Date
+C:\U\2025\examenes\Parcial 2\p1\proyecto\proyecto_parcial2\obj\Debug\net9.0\proyecto_parcial2.dll
+C:\U\2025\examenes\Parcial 2\p1\proyecto\proyecto_parcial2\obj\Debug\net9.0\refint\proyecto_parcial2.dll
+C:\U\2025\examenes\Parcial 2\p1\proyecto\proyecto_parcial2\obj\Debug\net9.0\proyecto_parcial2.pdb
+C:\U\2025\examenes\Parcial 2\p1\proyecto\proyecto_parcial2\obj\Debug\net9.0\proyecto_parcial2.genruntimeconfig.cache
+C:\U\2025\examenes\Parcial 2\p1\proyecto\proyecto_parcial2\obj\Debug\net9.0\ref\proyecto_parcial2.dll
+C:\Users\Efrai\Desktop\ayuda de colocho\proyecto_parcial2-mainljiñoki\proyecto_parcial2-main\bin\Debug\net9.0\proyecto_parcial2.exe
+C:\Users\Efrai\Desktop\ayuda de colocho\proyecto_parcial2-mainljiñoki\proyecto_parcial2-main\bin\Debug\net9.0\proyecto_parcial2.deps.json
+C:\Users\Efrai\Desktop\ayuda de colocho\proyecto_parcial2-mainljiñoki\proyecto_parcial2-main\bin\Debug\net9.0\proyecto_parcial2.runtimeconfig.json
+C:\Users\Efrai\Desktop\ayuda de colocho\proyecto_parcial2-mainljiñoki\proyecto_parcial2-main\bin\Debug\net9.0\proyecto_parcial2.dll
+C:\Users\Efrai\Desktop\ayuda de colocho\proyecto_parcial2-mainljiñoki\proyecto_parcial2-main\bin\Debug\net9.0\proyecto_parcial2.pdb
+C:\Users\Efrai\Desktop\ayuda de colocho\proyecto_parcial2-mainljiñoki\proyecto_parcial2-main\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\Efrai\Desktop\ayuda de colocho\proyecto_parcial2-mainljiñoki\proyecto_parcial2-main\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\Efrai\Desktop\ayuda de colocho\proyecto_parcial2-mainljiñoki\proyecto_parcial2-main\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Efrai\Desktop\ayuda de colocho\proyecto_parcial2-mainljiñoki\proyecto_parcial2-main\bin\Debug\net9.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\Efrai\Desktop\ayuda de colocho\proyecto_parcial2-mainljiñoki\proyecto_parcial2-main\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Efrai\Desktop\ayuda de colocho\proyecto_parcial2-mainljiñoki\proyecto_parcial2-main\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Efrai\Desktop\ayuda de colocho\proyecto_parcial2-mainljiñoki\proyecto_parcial2-main\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Efrai\Desktop\ayuda de colocho\proyecto_parcial2-mainljiñoki\proyecto_parcial2-main\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Efrai\Desktop\ayuda de colocho\proyecto_parcial2-mainljiñoki\proyecto_parcial2-main\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Efrai\Desktop\ayuda de colocho\proyecto_parcial2-mainljiñoki\proyecto_parcial2-main\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\Efrai\Desktop\ayuda de colocho\proyecto_parcial2-mainljiñoki\proyecto_parcial2-main\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Efrai\Desktop\ayuda de colocho\proyecto_parcial2-mainljiñoki\proyecto_parcial2-main\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\Efrai\Desktop\ayuda de colocho\proyecto_parcial2-mainljiñoki\proyecto_parcial2-main\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Efrai\Desktop\ayuda de colocho\proyecto_parcial2-mainljiñoki\proyecto_parcial2-main\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Efrai\Desktop\ayuda de colocho\proyecto_parcial2-mainljiñoki\proyecto_parcial2-main\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Efrai\Desktop\ayuda de colocho\proyecto_parcial2-mainljiñoki\proyecto_parcial2-main\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Efrai\Desktop\ayuda de colocho\proyecto_parcial2-mainljiñoki\proyecto_parcial2-main\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Efrai\Desktop\ayuda de colocho\proyecto_parcial2-mainljiñoki\proyecto_parcial2-main\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Efrai\Desktop\ayuda de colocho\proyecto_parcial2-mainljiñoki\proyecto_parcial2-main\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Efrai\Desktop\ayuda de colocho\proyecto_parcial2-mainljiñoki\proyecto_parcial2-main\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\Efrai\Desktop\ayuda de colocho\proyecto_parcial2-mainljiñoki\proyecto_parcial2-main\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\Efrai\Desktop\ayuda de colocho\proyecto_parcial2-mainljiñoki\proyecto_parcial2-main\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Efrai\Desktop\ayuda de colocho\proyecto_parcial2-mainljiñoki\proyecto_parcial2-main\bin\Debug\net9.0\System.Diagnostics.EventLog.dll
+C:\Users\Efrai\Desktop\ayuda de colocho\proyecto_parcial2-mainljiñoki\proyecto_parcial2-main\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Efrai\Desktop\ayuda de colocho\proyecto_parcial2-mainljiñoki\proyecto_parcial2-main\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\Efrai\Desktop\ayuda de colocho\proyecto_parcial2-mainljiñoki\proyecto_parcial2-main\bin\Debug\net9.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Efrai\Desktop\ayuda de colocho\proyecto_parcial2-mainljiñoki\proyecto_parcial2-main\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Efrai\Desktop\ayuda de colocho\proyecto_parcial2-mainljiñoki\proyecto_parcial2-main\bin\Debug\net9.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Efrai\Desktop\ayuda de colocho\proyecto_parcial2-mainljiñoki\proyecto_parcial2-main\bin\Debug\net9.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Efrai\Desktop\ayuda de colocho\proyecto_parcial2-mainljiñoki\proyecto_parcial2-main\bin\Debug\net9.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Efrai\Desktop\ayuda de colocho\proyecto_parcial2-mainljiñoki\proyecto_parcial2-main\bin\Debug\net9.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Efrai\Desktop\ayuda de colocho\proyecto_parcial2-mainljiñoki\proyecto_parcial2-main\bin\Debug\net9.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Efrai\Desktop\ayuda de colocho\proyecto_parcial2-mainljiñoki\proyecto_parcial2-main\bin\Debug\net9.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Efrai\Desktop\ayuda de colocho\proyecto_parcial2-mainljiñoki\proyecto_parcial2-main\bin\Debug\net9.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Efrai\Desktop\ayuda de colocho\proyecto_parcial2-mainljiñoki\proyecto_parcial2-main\bin\Debug\net9.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Efrai\Desktop\ayuda de colocho\proyecto_parcial2-mainljiñoki\proyecto_parcial2-main\bin\Debug\net9.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Efrai\Desktop\ayuda de colocho\proyecto_parcial2-mainljiñoki\proyecto_parcial2-main\bin\Debug\net9.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Efrai\Desktop\ayuda de colocho\proyecto_parcial2-mainljiñoki\proyecto_parcial2-main\bin\Debug\net9.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Efrai\Desktop\ayuda de colocho\proyecto_parcial2-mainljiñoki\proyecto_parcial2-main\bin\Debug\net9.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Efrai\Desktop\ayuda de colocho\proyecto_parcial2-mainljiñoki\proyecto_parcial2-main\bin\Debug\net9.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Efrai\Desktop\ayuda de colocho\proyecto_parcial2-mainljiñoki\proyecto_parcial2-main\bin\Debug\net9.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Efrai\Desktop\ayuda de colocho\proyecto_parcial2-mainljiñoki\proyecto_parcial2-main\bin\Debug\net9.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Efrai\Desktop\ayuda de colocho\proyecto_parcial2-mainljiñoki\proyecto_parcial2-main\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Efrai\Desktop\ayuda de colocho\proyecto_parcial2-mainljiñoki\proyecto_parcial2-main\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Efrai\Desktop\ayuda de colocho\proyecto_parcial2-mainljiñoki\proyecto_parcial2-main\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Efrai\Desktop\ayuda de colocho\proyecto_parcial2-mainljiñoki\proyecto_parcial2-main\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Efrai\Desktop\ayuda de colocho\proyecto_parcial2-mainljiñoki\proyecto_parcial2-main\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+C:\Users\Efrai\Desktop\ayuda de colocho\proyecto_parcial2-mainljiñoki\proyecto_parcial2-main\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Efrai\Desktop\ayuda de colocho\proyecto_parcial2-mainljiñoki\proyecto_parcial2-main\obj\Debug\net9.0\proyecto_parcial2.csproj.AssemblyReference.cache
+C:\Users\Efrai\Desktop\ayuda de colocho\proyecto_parcial2-mainljiñoki\proyecto_parcial2-main\obj\Debug\net9.0\proyecto_parcial2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Efrai\Desktop\ayuda de colocho\proyecto_parcial2-mainljiñoki\proyecto_parcial2-main\obj\Debug\net9.0\proyecto_parcial2.AssemblyInfoInputs.cache
+C:\Users\Efrai\Desktop\ayuda de colocho\proyecto_parcial2-mainljiñoki\proyecto_parcial2-main\obj\Debug\net9.0\proyecto_parcial2.AssemblyInfo.cs
+C:\Users\Efrai\Desktop\ayuda de colocho\proyecto_parcial2-mainljiñoki\proyecto_parcial2-main\obj\Debug\net9.0\proyecto_parcial2.csproj.CoreCompileInputs.cache
+C:\Users\Efrai\Desktop\ayuda de colocho\proyecto_parcial2-mainljiñoki\proyecto_parcial2-main\obj\Debug\net9.0\proyecto.283F262C.Up2Date
+C:\Users\Efrai\Desktop\ayuda de colocho\proyecto_parcial2-mainljiñoki\proyecto_parcial2-main\obj\Debug\net9.0\proyecto_parcial2.dll
+C:\Users\Efrai\Desktop\ayuda de colocho\proyecto_parcial2-mainljiñoki\proyecto_parcial2-main\obj\Debug\net9.0\refint\proyecto_parcial2.dll
+C:\Users\Efrai\Desktop\ayuda de colocho\proyecto_parcial2-mainljiñoki\proyecto_parcial2-main\obj\Debug\net9.0\proyecto_parcial2.pdb
+C:\Users\Efrai\Desktop\ayuda de colocho\proyecto_parcial2-mainljiñoki\proyecto_parcial2-main\obj\Debug\net9.0\proyecto_parcial2.genruntimeconfig.cache
+C:\Users\Efrai\Desktop\ayuda de colocho\proyecto_parcial2-mainljiñoki\proyecto_parcial2-main\obj\Debug\net9.0\ref\proyecto_parcial2.dll
